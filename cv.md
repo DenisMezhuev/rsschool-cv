@@ -7,11 +7,11 @@
 
 7. пример кода:
 
-  ```<p>0</p><p>0</p><p>0</p>
+  <p>0</p><p>0</p><p>0</p>
   let parag = document.querySelectorAll('p');
 
     parag.forEach(elem => elem.addEventListener('click', 
                           () => window.setInterval(
                           () => elem.innerHTML = Number(elem.innerHTML) + 1, 1000)
-    ));```
+    ));
     
