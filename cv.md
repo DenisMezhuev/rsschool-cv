@@ -6,15 +6,15 @@
 
     
     
-   ```let parag = document.querySelectorAll('p');
+   `` `let parag = document.querySelectorAll('p');
 
     parag.forEach(elem => elem.addEventListener('click', 
                           () => window.setInterval(
                           () => elem.innerHTML = Number(elem.innerHTML) + 1, 1000)
-                          
-                                                          
+    ));`` `
     
-    ));```
-    
+
+
+
     6. Опыта в разработках нету;
     7. Проходил курсы на *Stepick*.
