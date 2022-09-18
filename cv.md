@@ -44,3 +44,15 @@ I want to ***learn*** **Front-End Development**
     }
 }())
 ```
+# Work experience:
+In Front-End Development __no__
+
+# Education
+* __University:__ Mogilev State University named after A.A.Kuleshov
+* __Courses__:
+  * [FreeCodeCamp](https://www.freecodecamp.org/)
+  * [code-basics](https://ru.code-basics.com/languages/html)
+  * [stepik](https://welcome.stepik.org/ru)
+
+  # Language:
+English level: __A1-A2__
